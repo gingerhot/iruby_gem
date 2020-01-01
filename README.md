@@ -1,6 +1,6 @@
 # IrubyGem
 
-`iruby_gem` is a pack of lines of code used to install gems in a Ruby program, especially in a [IRuby](https://github.com/SciRuby/iruby) notebook.
+`iruby_gem` is a pack of lines of code used to install gems in a Ruby program on the fly, especially in a [IRuby](https://github.com/SciRuby/iruby) notebook, or IRB/Pry console.
 
 ## Installation
 
